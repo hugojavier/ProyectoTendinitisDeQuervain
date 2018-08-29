@@ -315,7 +315,7 @@ ul.sub-menu {
 }
 
 #header .navbar-nav li ul.sub-menu li .active{
-  background: #f7f316;
+  background: #fff;
   color: #fff;
   position: relative;
 }
