@@ -275,7 +275,7 @@
 }
 
 #header .navbar-nav.navbar-right >li a {
-  color: ##f7f316;
+  color: #f7f316;
   font-size: 12px;
   padding: 20px;
   text-transform: uppercase;
@@ -307,7 +307,7 @@ ul.sub-menu {
 }
 
 #header .navbar-nav li ul.sub-menu li a{
-  color: ##f7f316;
+  color: #f7f316;
   padding: 5px 0;
   font-size: 13px;
   display: block;
@@ -337,8 +337,8 @@ ul.sub-menu {
 
 #header .navbar-nav li ul.sub-menu li a:hover,
 #header .navbar-nav li ul.sub-menu li a:focus{
-  background: #f7f316;
-  color: #fff;
+  background: #fff;
+  color: #f7f316;
 }
 
 .fa-angle-down{
