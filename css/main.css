@@ -251,7 +251,7 @@
 }
 
 #header .navbar {
-  background: #fff;
+  background: #f2efef;
   border: 0;
   margin-bottom: 0;
 }
@@ -533,7 +533,7 @@ ul.sub-menu {
 *******Home Page******
 **************************/
 #home-slider {
-  background: url(../images/home/slider-bg.png) 0 100% repeat-x;
+  background: #f2efef;
   position: relative;
 }
 
