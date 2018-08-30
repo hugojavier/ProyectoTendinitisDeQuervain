@@ -148,7 +148,7 @@
     }
 
   .carousel-indicators.visible-xs li {
-    border-color: ##f7f316;
+    border-color: #f7f316;
     border-width: 2px;
     height: 12px;
     margin: 0 5px 0 0;
@@ -316,7 +316,7 @@ ul.sub-menu {
 
 #header .navbar-nav li ul.sub-menu li .active{
   background: #fff;
-  color: #fff;
+  color: #f7f316;
   position: relative;
 }
 
