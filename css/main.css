@@ -8,7 +8,7 @@
     font-weight: 300;
     font-size: 14px;
     line-height: 22px;
-    color: #000;
+    color: #e5e3e3;
   }
 
   html {
@@ -242,7 +242,7 @@
 }
 
 #header .navbar {
-  background: #fff;
+  background: #e5e3e3;
   border: 0;
   margin-bottom: 0;
 }
@@ -524,7 +524,7 @@ ul.sub-menu {
 *******Home Page******
 **************************/
 #home-slider {
-  background: url(../images/home/slider-bg.png) 0 100% repeat-x;
+  background: #e5e3e3;
   position: relative;
 }
 
