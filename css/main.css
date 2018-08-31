@@ -49,12 +49,12 @@
   }
 
   h1{
-    color: #686868;
+    color: #000;
   }
 
   h2{
     font-size: 24px;
-    color: #686868;
+    color: #000;
   }
 
   h3{
@@ -71,8 +71,8 @@
 
   .btn-common {
     font-size: 14px;
-    color: #0099ae;
-    border: 1px solid #0099ae;
+    color: #ef7700;
+    border: 1px solid #ef7700;
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     padding: 10px 25px;
@@ -92,8 +92,8 @@
     outline: none;
     background: none;
     box-shadow: none;
-    color: #01707f;
-    border-color:#01707f;
+    color: #ef7700;
+    border-color:#ef7700;
   }
 
   .align-right{
@@ -1198,8 +1198,8 @@ ul.elements li > i{
 .pagination .active a:focus, 
 .pagination a:focus {
   background: transparent;
-  border-color: #C03035;
-  color: #C03035;
+  border-color: #ef7700;
+  color: #ef7700;
 }
 
 
