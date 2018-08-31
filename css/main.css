@@ -266,7 +266,7 @@
 }
 
 #header .navbar-nav.navbar-right >li a {
-  color: #000;
+  color: #ef7700;
   font-size: 12px;
   padding: 20px;
   text-transform: uppercase;
@@ -298,7 +298,7 @@ ul.sub-menu {
 }
 
 #header .navbar-nav li ul.sub-menu li a{
-  color: #818285;
+  color: #ef7700;
   padding: 5px 0;
   font-size: 13px;
   display: block;
@@ -315,7 +315,7 @@ ul.sub-menu {
   position: absolute;
   font-size: 56px;
   top: -13px;
-  color: #f7f316;
+  color: #ef7700;
 }
 
 #header .navbar-nav li ul.sub-menu li .active .fa-angle-right{
