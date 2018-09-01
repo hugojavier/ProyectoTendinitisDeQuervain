@@ -60,7 +60,19 @@
   h3{
     font-size: 18px;
   }
+  
+  p.rojo{
+    color:#f40000;
+  }
+  
+  p.amarillo{
+    color:#f4e300;
+  }
 
+  p.verde{
+    color:#17842f;
+  }
+  
   .overflow{
     overflow: hidden;
   }
