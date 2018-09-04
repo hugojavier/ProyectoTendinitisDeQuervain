@@ -77,12 +77,12 @@
     
  
 writing-mode: vertical-rl;
- text-orientation: upright; /*SI necesitas el textos sea orientado de este modo tambien*/
+ text-orientation: upright; 
   	font-size:9px;
 	margin-right: 30%;
 	margin-left: 30%;
-	/*float:left;
-	transform: rotate(180deg);*/
+	float:left;
+	transform: rotate(180deg);
 }  
   
   .overflow{
