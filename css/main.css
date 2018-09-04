@@ -60,6 +60,10 @@
   h3{
     font-size: 18px;
   }
+	
+  h6.gantt{
+    font-family: "Arial", serif;  
+  }
   
   p.rojo{
     color:#f40000;
