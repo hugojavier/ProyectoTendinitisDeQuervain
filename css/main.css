@@ -60,10 +60,14 @@
   h3{
     font-size: 18px;
   }
+  
+.gantt{
+    font-family: 'Arial', sans-serif;
+    font-size: 12px;
+  }
 	
   h5.gantt{	
-    font-family: 'Arial', sans-serif;
-     
+    font-family: 'Arial', sans-serif;    
 	  
   }
 	
