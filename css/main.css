@@ -73,7 +73,7 @@
     color:#17842f;
   }
   
-  .verticalText {
+  .verticalText{
 	writing-mode: vertical-lr;
 	transform: rotate(-90deg);
 
