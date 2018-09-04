@@ -73,12 +73,9 @@
     color:#17842f;
   }
   
-  p.verticalText {
-	 display:block;
-	-webkit-transform: rotate(-90deg);
-	-moz-transform: rotate(-90deg);
-	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);  
-	color: #e5e3e3;
+  .verticalText {
+	writing-mode: vertical-lr;
+	transform: rotate(-90deg);
 
   }  
   
