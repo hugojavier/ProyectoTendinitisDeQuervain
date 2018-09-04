@@ -62,17 +62,19 @@
   }
  
 	
-  h5.gantt{	
-    font-family: 'Lato', sans-serif;
+  p.ganttx{	
+    font-family: 'Arial', sans-serif;
     margin-bottom: 0px;
     margin-top: 0px;
+    font-size: 12px;
 	  
   }
 	
-  h6.gantt{
-    font-family: 'Lato', sans-serif;
+  p.gantt{
+    font-family: 'Arial', sans-serif;
     margin-bottom: 0px;
     margin-top: 0px;  
+    font-size: 18px;
   }
   
   p.rojo{
