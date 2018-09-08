@@ -1,1 +1,2 @@
-Reposirio bibliográfico de los recuersos usados en la elaboracion del proyecto
+# Repositorio
+Repositorio bibliográfico de los recuersos usados en la elaboracion del proyecto
