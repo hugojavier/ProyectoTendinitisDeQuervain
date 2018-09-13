@@ -459,7 +459,7 @@ a:hover, a:focus, a:active {
   display: inline-block;
   width: 35px;
   height: 35px;
-  background: #1f76bd;
+  background: #e2774f;
   vertical-align: middle;
   margin-right: 5px;
   color: #fff;
@@ -493,7 +493,7 @@ form .alert {
 	Module
 ========================================================================== */
 .btn-primary {
-  background: #115c9b;
+  background: #913715;
   border: none;
   border-radius: 0;
   padding: 10px 25px;
@@ -505,17 +505,17 @@ form .alert {
 }
 .btn-primary:hover {
   background: #fff;
-  color: #1f76bd;
-  border: 1px solid #1f76bd;
+  color: #e2774f;
+  border: 1px solid #e2774f;
 }
 
 .btn-secondary {
   background: #fff;
-  color: #1f76bd;
+  color: #e2774f;
   border-radius: 0;
 }
 .btn-secondary:hover {
-  background: #1f76bd;
+  background: #e2774f;
   color: #fff;
 }
 
@@ -544,7 +544,7 @@ form .alert {
 .title-under {
   display: block;
   margin: 5px auto;
-  background: #1f76bd;
+  background: #e2774f;
   height: 1px;
   width: 280px;
 }
@@ -578,7 +578,7 @@ form .alert {
 }
 
 .table-style-2 thead {
-  background: #e2774f;
+  background: #913715;
   border-bottom: 1px solid #913715;
   color: #fff;
 }
@@ -614,7 +614,7 @@ form .alert {
 }
 
 .nav > li > a:hover, .nav > li > a:focus {
-  background: #e2774f;
+  background: #913715;
   color: #fff;
 }
 
@@ -629,7 +629,7 @@ form .alert {
   color: #fff;
 }
 .panel-default > .panel-heading:hover {
-  background: #e2774f;
+  background: #913715;
 }
 
 /* Modal
@@ -638,7 +638,7 @@ form .alert {
   border-radius: 0;
 }
 .modal .modal-header {
-  background: #1f76bd;
+  background: #e2774f;
   color: #fff;
 }
 .modal .modal-header .close {
@@ -826,7 +826,7 @@ form .alert {
   .navbar-main li:hover .submenu li,
   .navbar-main li:active .submenu li,
   .navbar-main li:focus .submenu li {
-    background: #e2774f;
+    background: #913715;
     border-top-color: #e2774f;
   }
 
