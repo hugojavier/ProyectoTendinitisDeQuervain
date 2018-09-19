@@ -60,22 +60,12 @@
   h3{
     font-size: 18px;
   }
- 
 	
-  p.ganttx{	
-    font-family: 'Arial', sans-serif;
-    margin-bottom: 0px;
-    margin-top: 0px;
-    font-size: 10px;
-	  
-  }
+p.textnormal{
+	font-family: 'Lato', sans-serif;
+	color:#000;
 	
-  p.gantt{
-    font-family: 'Arial', sans-serif;
-    margin-bottom: 0px;
-    margin-top: 0px;  
-    font-size: 12px;
-  }
+}
   
   p.rojo{
     color:#f40000;
