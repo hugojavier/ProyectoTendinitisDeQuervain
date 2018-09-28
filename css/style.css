@@ -11,7 +11,7 @@
 ========================================================================== */
 body {
   font-family: "Open sans", sans-serif;
-  color: #a32d00;
+  color: #000;
 }
 
 h1,
@@ -37,7 +37,7 @@ a:hover, a:focus, a:active {
   width: 100%;
 }
 .carousel-home .carousel-control {
-  background: #e2774f;
+  background: #a2a575;
   height: 80px;
   width: 40px;
   top: 50%;
