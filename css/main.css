@@ -103,6 +103,31 @@ p.textnormal{
     padding: 10px 25px;
   }
 
+  #contenedor_principal{
+	width:800px;
+	height:200px;
+	position:relative;
+	margin:auto;
+	}
+	.contenedor_imagen_texto{
+	width:260px;
+	height:200px;
+	position:relative;
+	display:inline-block;
+	vertical-align:top;
+	overflow:hidden;
+	}
+	.imagen, .texto{
+	width:100%;
+	height:auto;
+	position:relative;
+	display:inline;
+	}
+	.texto{
+	height:auto;
+	text-align:center
+	}
+
   #action .col-sm-5{
     position: absolute;
 
